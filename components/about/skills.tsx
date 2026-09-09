@@ -2,15 +2,15 @@ import type { ReactNode } from "react";
 import Shuffle from "../Shuffle";
 
 const SKILLS = [
-  "Production Systems",
-  "Scalable Architecture",
-  "Full Stack Engineering",
-  "API Design",
-  "Authentication",
-  "Database Optimization",
-  "UI Engineering",
-  "Performance Tuning",
-  "CI/CD Workflows",
+  "REST API Design",
+  "Microservices",
+  "Database Schema Design",
+  "Business Logic Implementation",
+  "Third-Party Integrations",
+  "Keycloak SSO / RBAC",
+  "ETL (IRAS)",
+  "Agile / Scrum",
+  "Docker & Git Workflows",
 ];
 
 export function Skills(): ReactNode {

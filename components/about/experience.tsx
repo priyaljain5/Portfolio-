@@ -16,47 +16,19 @@ type Entry = {
 };
 
 const ENTRIES: Entry[] = [
-   {
-    company: "Micro 1-Freelance",
-    role: "Associate Software Engineer",
-    period: "Mar 2025 – Present",
-    slug: "micro-1.png",
-    brand: "#111111",
-  },
-  {
-    company: "Freelance",
-    role: "Full Stack Developer",
-    period: "2023 – Present",
-    brand: "#0AE448",
-  },
-  {
-    company: "Hubblehox",
-    role: "Jr. Full Stack Developer",
-    period: "Mar 2025 – Present",
-    slug: "hubblehox.png",
-    brand: "#5E6AD2",
-  },
   {
     company: "Tata Consultancy Services",
     role: "Associate Software Engineer",
-    period: "Sep 2024 – Mar 2025",
+    period: "Jul 2024 – Present",
     slug: "tcs.png",
     brand: "#0a0a0a",
   },
   {
-    company: "Anomaly Enterprise",
-    role: "Full Stack Developer Intern",
-    period: "Dec 2023 – Jun 2024",
-    slug: "anomaly.png",
-    brand: "#635BFF",
+    company: "MBG Card India Pvt Ltd",
+    role: "API Chatbot Executive & WordPress Developer",
+    period: "Oct 2023 – Mar 2024",
+    brand: "#5E6AD2",
   },
-  {
-    company: "Tatva Soft",
-    role: "React Developer Intern",
-    period: "May 2023 – Jun 2023",
-    slug: "tatva.png",
-    brand: "#A259FF",
-  }
 ];
 
 const COLLAPSED_COUNT = 2.5;

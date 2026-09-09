@@ -1,26 +1,26 @@
 import type { Metadata } from "next";
 
 export const siteConfig = {
-  name: "Darshan Solanki - Full Stack Developer",
-  description:"Full Stack Developer & Freelancer building scalable web apps with Next.js, Nest.js, TypeScript & more.",
+  name: "Priyal Jain - Python Backend Developer",
+  description:"Python Backend Developer building RESTful APIs and microservices with FastAPI, Django, and SQL. Currently building a Credit Management System at TCS.",
+  // TODO: replace placeholder domain once Priyal's portfolio URL exists
   url: "https://darshandev.online",
   ogImage: "https://darshandev.online/cover.jpg",
-  creator: "@darshan98solanki",
+  creator: "@priyaljain",
   authors: [
     {
-      name: "Darshan Solanki",
+      name: "Priyal Jain",
       url: "https://darshandev.online",
     },
   ],
   keywords: [
-    "Darshan Solanki",
-    "Full Stack Developer",
-    "Freelancer",
-    "Next.js",
-    "React",
-    "Nest.js",
-    "TypeScript",
-    "Node.js",
+    "Priyal Jain",
+    "Python Backend Developer",
+    "FastAPI",
+    "Django",
+    "REST APIs",
+    "Microservices",
+    "SQL",
     "Portfolio",
   ],
 } as const;

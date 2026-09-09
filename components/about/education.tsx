@@ -10,15 +10,10 @@ type Entry = {
 
 const ENTRIES: Entry[] = [
   {
-    school: "G H Patel College of Engineering & Technology",
-    degree: "Computer Engineering, B.E.",
-    period: "2021 – 2024",
+    school: "Gyan Ganga Institute of Technology and Sciences",
+    degree: "B.Tech, Computer Science",
+    period: "CGPA 8.66",
   },
-  {
-    school: "Gujarat Technological University",
-    degree: "Diploma in Computer Engineering",
-    period: "2018 - 2021",
-  }
 ];
 
 const ROW_HEIGHT = 64;

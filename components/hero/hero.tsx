@@ -21,12 +21,12 @@ export function Hero(): ReactNode {
               <span aria-hidden="true" className="mx-0.5">
                 👋
               </span>
-              , I&rsquo;m Darshan
+              , I&rsquo;m Priyal
             </p>
 
             <h1 className="flex flex-col items-start">
               <Shuffle
-                text="Full stack developer &"
+                text="Python backend"
                 tag="span"
                 className="font-serif text-[1.8rem] font-medium leading-[1.05] tracking-tight text-foreground md:text-[2.5rem] lg:text-[3rem]"
                 style={{ whiteSpace: "nowrap" }}
@@ -39,7 +39,7 @@ export function Hero(): ReactNode {
                 triggerOnHover={false}
               />
               <Shuffle
-                text="Freelancer"
+                text="developer"
                 tag="span"
                 className="font-serif text-[2rem] font-medium leading-[1.05] tracking-tight text-foreground md:text-[2.5rem] lg:text-[3rem]"
                 style={{ whiteSpace: "nowrap" }}
@@ -54,7 +54,7 @@ export function Hero(): ReactNode {
             </h1>
 
             <p className="max-w-[34ch] text-[22px] leading-[1.4] tracking-tight text-foreground/65">
-              An engineer focused on fast, scalable web applications that feel intuitive to use.
+              A backend engineer building fast, secure RESTful APIs and microservices with FastAPI, Django, and SQL.
             </p>
 
             <HeroCtas />
@@ -66,7 +66,7 @@ export function Hero(): ReactNode {
                 <PortraitMorph
                   srcA={PORTRAIT_SRC}
                   srcB={PORTRAIT_HOVER_SRC}
-                  alt="Darshan Solanki"
+                  alt="Priyal Jain"
                 />
               </div>
             </div>

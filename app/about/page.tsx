@@ -36,7 +36,7 @@ export default function AboutPage(): ReactNode {
               <h1 className="text-foreground font-serif text-[1.75rem] font-medium tracking-tight sm:text-[2rem]">
                 Hello! I&rsquo;m{" "}
                 <span className="border-foreground/30 border-b pb-0.5">
-                  Darshan Solanki
+                  Priyal Jain
                 </span>
                 .
               </h1>
@@ -45,25 +45,39 @@ export default function AboutPage(): ReactNode {
                 <p>
                   I&rsquo;m a{" "}
                   <strong className="text-foreground font-semibold">
-                    Full-Stack Engineer
+                    Software Engineer
                   </strong>{" "}
-                  focused on building fast, scalable, and user-first web
-                  applications with{" "}
+                  with hands-on backend experience in{" "}
                   <strong className="text-foreground font-semibold">
-                    React, Next.js, TypeScript, and Node.js
+                    Python, FastAPI, and Django
+                  </strong>
+                  , currently building a{" "}
+                  <strong className="text-foreground font-semibold">
+                    Credit Management System (CMS)
+                  </strong>{" "}
+                  at TCS.
+                </p>
+
+                <p>
+                  I work across{" "}
+                  <strong className="text-foreground font-semibold">
+                    RESTful API design, database schema design, business logic,
+                    and third-party integrations
+                  </strong>
+                  , with{" "}
+                  <strong className="text-foreground font-semibold">
+                    MariaDB, SQL, and Keycloak-based authentication (RBAC)
                   </strong>
                   .
                 </p>
 
                 <p>
-                  Over the last two years, I&rsquo;ve built production software,
-                  reusable systems, and AI-powered solutions that simplify
-                  complex problems and deliver measurable impact.
-                </p>
-
-                <p>
-                  I care about clean code, thoughtful design, and building
-                  products people genuinely enjoy using.
+                  I&rsquo;m comfortable shipping across{" "}
+                  <strong className="text-foreground font-semibold">
+                    DEV, QA, UAT, and Production
+                  </strong>{" "}
+                  with Git and Docker in Agile sprint cycles, and have been
+                  recognized with multiple team performance awards.
                 </p>
               </div>
             </div>
