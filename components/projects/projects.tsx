@@ -42,7 +42,7 @@ const PROJECTS: Project[] = [
     iconLabel: "Credit Management System",
     title: "A credit management system powering lending decision logic.",
     description:
-      "Built production RESTful APIs with FastAPI/Django and MariaDB, modeled raw data into logical decision graphs via IRAS, and secured access with Keycloak RBAC.",
+      "Built production RESTful APIs with FastAPI and MariaDB, modeled raw data into logical decision graphs via IRAS, and secured access with Keycloak RBAC.",
     meta: "Associate Software Engineer — TCS, 2024–Present",
     imageRatio: 1376 / 768,
     image: "/images/borrowin.png",

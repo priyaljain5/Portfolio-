@@ -1,7 +1,7 @@
 {
   "name": "Priyal Jain",
   "short_name": "Priyal Jain",
-  "description": "Python Backend Developer building RESTful APIs and microservices with FastAPI, Django, and SQL. Currently building a Credit Management System at TCS.",
+  "description": "Python Backend Developer building RESTful APIs and microservices with FastAPI and SQL. Currently building a Credit Management System at TCS.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

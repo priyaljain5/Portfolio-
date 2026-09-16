@@ -13,7 +13,6 @@ import { AnimatePresence, motion } from "motion/react";
 import {
   SiPython,
   SiFastapi,
-  SiDjango,
   SiSwagger,
   SiMariadb,
   SiMysql,
@@ -36,7 +35,6 @@ import Shuffle from "@/components/Shuffle";
 const techLogos = [
   { node: <SiPython />, title: "Python", href: "https://www.python.org" },
   { node: <SiFastapi />, title: "FastAPI", href: "https://fastapi.tiangolo.com" },
-  { node: <SiDjango />, title: "Django", href: "https://www.djangoproject.com" },
   { node: <SiSwagger />, title: "REST / OpenAPI", href: "https://www.openapis.org" },
   { node: <SiMariadb />, title: "MariaDB", href: "https://mariadb.org" },
   { node: <SiMysql />, title: "MySQL", href: "https://www.mysql.com" },

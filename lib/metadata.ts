@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const siteConfig = {
   name: "Priyal Jain - Python Backend Developer",
-  description:"Python Backend Developer building RESTful APIs and microservices with FastAPI, Django, and SQL. Currently building a Credit Management System at TCS.",
+  description:"Python Backend Developer building RESTful APIs and microservices with FastAPI and SQL. Currently building a Credit Management System at TCS.",
   // TODO: replace placeholder domain once Priyal's portfolio URL exists
   url: "https://darshandev.online",
   ogImage: "https://darshandev.online/cover.jpg",
@@ -17,7 +17,6 @@ export const siteConfig = {
     "Priyal Jain",
     "Python Backend Developer",
     "FastAPI",
-    "Django",
     "REST APIs",
     "Microservices",
     "SQL",

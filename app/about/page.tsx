@@ -49,7 +49,7 @@ export default function AboutPage(): ReactNode {
                   </strong>{" "}
                   with hands-on backend experience in{" "}
                   <strong className="text-foreground font-semibold">
-                    Python, FastAPI, and Django
+                    Python and FastAPI
                   </strong>
                   , currently building a{" "}
                   <strong className="text-foreground font-semibold">

@@ -7,8 +7,8 @@ import { FadeIn, ScaleUnblur } from "@/components/ui/motion-primitives";
 import { PortraitMorph } from "./portrait-morph";
 import Shuffle from "@/components/Shuffle";
 
-const PORTRAIT_SRC = "/me.jpeg";
-const PORTRAIT_HOVER_SRC = "/want-to-be.png";
+const PORTRAIT_SRC = "/cover-main.jpeg";
+const PORTRAIT_HOVER_SRC = "/cover.jpeg";
 
 export function Hero(): ReactNode {
   return (
@@ -54,7 +54,7 @@ export function Hero(): ReactNode {
             </h1>
 
             <p className="max-w-[34ch] text-[22px] leading-[1.4] tracking-tight text-foreground/65">
-              A backend engineer building fast, secure RESTful APIs and microservices with FastAPI, Django, and SQL.
+              A backend engineer building fast, secure RESTful APIs and microservices with FastAPI and SQL.
             </p>
 
             <HeroCtas />
