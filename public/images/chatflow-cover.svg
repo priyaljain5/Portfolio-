@@ -1,0 +1,51 @@
+<svg width="1376" height="768" viewBox="0 0 1376 768" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="iconGrad3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="divider3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1376" height="768" fill="#ffffff"/>
+
+  <rect x="638" y="86" width="100" height="100" rx="24" fill="url(#iconGrad3)"/>
+  <circle cx="688" cy="126" r="22" fill="#ffffff"/>
+  <path d="M672 148 l0 20 l20 -14 z" fill="#ffffff"/>
+
+  <text x="688" y="272" font-family="Arial, sans-serif" font-size="54" font-weight="800" text-anchor="middle">
+    <tspan fill="#111827">Chat</tspan><tspan fill="#0891b2">Flow</tspan>
+  </text>
+
+  <text x="688" y="322" font-family="Arial, sans-serif" font-size="26" fill="#0891b2" text-anchor="middle">Engage. Automate. Convert.</text>
+
+  <rect x="618" y="352" width="140" height="3" fill="url(#divider3)"/>
+
+  <line x1="500" y1="440" x2="600" y2="440" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="688" y="446" font-family="Arial, sans-serif" font-size="19" fill="#6b7280" text-anchor="middle">Tech Stack</text>
+  <line x1="776" y1="440" x2="876" y2="440" stroke="#e5e7eb" stroke-width="1"/>
+
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(388,470)">
+      <rect width="184" height="130" rx="18" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+      <rect x="62" y="26" width="60" height="60" rx="14" fill="#21759b"/>
+      <text x="92" y="65" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">WP</text>
+      <text x="92" y="112" font-size="17" fill="#111827" text-anchor="middle">WordPress</text>
+    </g>
+    <g transform="translate(596,470)">
+      <rect width="184" height="130" rx="18" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+      <rect x="62" y="26" width="60" height="60" rx="14" fill="#777bb4"/>
+      <text x="92" y="65" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">Php</text>
+      <text x="92" y="112" font-size="17" fill="#111827" text-anchor="middle">PHP</text>
+    </g>
+    <g transform="translate(804,470)">
+      <rect width="184" height="130" rx="18" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+      <rect x="62" y="26" width="60" height="60" rx="14" fill="#f0db4f"/>
+      <text x="92" y="65" font-size="22" font-weight="700" fill="#111827" text-anchor="middle">JS</text>
+      <text x="92" y="112" font-size="17" fill="#111827" text-anchor="middle">JavaScript</text>
+    </g>
+  </g>
+</svg>

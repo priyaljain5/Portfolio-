@@ -45,7 +45,7 @@ const PROJECTS: Project[] = [
       "Built production RESTful APIs with FastAPI and MariaDB, modeled raw data into logical decision graphs via IRAS, and secured access with Keycloak RBAC.",
     meta: "Associate Software Engineer — TCS, 2024–Present",
     imageRatio: 1376 / 768,
-    image: "/images/borrowin.png",
+    image: "/images/cms-cover.svg",
     imageAlt: "Credit Management System",
   },
   {
@@ -57,7 +57,7 @@ const PROJECTS: Project[] = [
       "Company info, placement-drive details, and test-prep material, with all data managed in PostgreSQL.",
     meta: "Personal Project — HTML, CSS, Node.js, PostgreSQL",
     imageRatio: 1376 / 768,
-    image: "/images/techlog.png",
+    image: "/images/placemexcel-cover.svg",
     imageAlt: "PlaceMExcel placement platform",
   },
   {
@@ -69,7 +69,7 @@ const PROJECTS: Project[] = [
       "Designed and optimized chatbot flows and platform configuration with data-driven tuning, and built and customized WordPress sites with PHP and JavaScript.",
     meta: "MBG Card India, 2023–2024",
     imageRatio: 1376 / 768,
-    image: "/images/chatdash.png",
+    image: "/images/chatflow-cover.svg",
     imageAlt: "Chatbot conversation flows",
   },
 ];
